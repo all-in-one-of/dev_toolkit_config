@@ -20,12 +20,12 @@ import sys
 import tank
 
 ######################  set up logger
-# try:
-#     import sgtk
-# except Exception, err:
-#     print err
-# else:
-#     logger = sgtk.platform.get_logger(__name__)
+try:
+    import sgtk
+except Exception, err:
+    print err
+else:
+    logger = sgtk.platform.get_logger(__name__)
 #######################
 
 
@@ -61,7 +61,7 @@ class BeforeAppLaunch(tank.Hook):
         # you can set environment variables like this:
         # DABRENDER,DABWORK,DABUSR,DABASSETS,DABUSERPREFS ARE DEFINED EXTERNALLY
         
-        _db="/Volumes/dabrender"
+        _db   ="/Volumes/dabrender"
         _dbdev="/Users/Shared/UTS_Dev/gitRepositories/utsdab_repos"
         
                             	
@@ -100,8 +100,8 @@ class BeforeAppLaunch(tank.Hook):
             "MAYA_APP_DIR"         : "{}/mayaprefs".format(os.environ["CONFIG"]),\
             "RMANTREE"             : "/Applications/Pixar/RenderManProServer-{}".format(os.environ["RMAN_VERSION"]),\
             "RMSTREE"              : "/Applications/Pixar/RenderManForMaya-{}-maya{}".format(os.environ["RMAN_VERSION"],os.environ["MAYA_VERSION"]),\
-            "RMS_SCRIPT_PATHS"     : "{}/etc/pixar/configs".format(_dbdev),\
-            "RDIR"                 : "{}/etc/pixar/configs".format(_dbdev),\
+            "RMS_SCRIPT_PATHS"     : "{}/etc/pixar/config".format(_dbdev),\
+            "RDIR"                 : "{}/etc/pixar/config".format(_dbdev),\
             "SHOTGUNENV_MAYAONLY"  : "before_app_launch"
             }
 

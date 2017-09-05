@@ -17,7 +17,7 @@
 # Mari
 #
 mari_linux: 'Mari3.2'
-mari_mac: /Applications/Mari3.2v1/Mari3.2v1.app
+mari_mac: '/Applications/Mari3.2v1/Mari3.2v1.app'
 mari_windows: 'C:\Program Files\Mari3.2v1\Bundle\bin\Mari3.2v1.exe'
 
 
@@ -32,7 +32,7 @@ maya_linux: 'maya2017'
 #
 # Nuke
 #
-nuke_mac: /Applications/Nuke11.0v1/Nuke11.0v1.app
+nuke_mac: '/Applications/Nuke11.0v1/Nuke11.0v1.app'
 nuke_windows: 'C:\Program Files\Nuke11.0v1\Nuke11.0.exe'
 nuke_linux: Nuke11.0
 
@@ -40,7 +40,7 @@ nuke_linux: Nuke11.0
 #
 # Nuke Studio
 #
-nukestudio_mac: /Applications/Nuke11.0v1/NukeStudio11.0v11.app
+nukestudio_mac: '/Applications/Nuke11.0v1/NukeStudio11.0v11.app'
 nukestudio_windows: 'C:\Program Files\Nuke11.0v1\Nuke11.0.exe'
 nukestudio_linux: Nuke11.0
 

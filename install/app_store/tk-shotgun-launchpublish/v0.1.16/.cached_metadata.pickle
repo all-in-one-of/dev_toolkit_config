@@ -22,7 +22,7 @@ S'tk-shotgun-launchpublish_v0.1.16.zip'
 p13
 sS'url'
 p14
-S'https://tank.shotgunstudio.com/file_serve/attachment/9350'
+S'https://tank.shotgunstudio.com/file_serve/attachment/17662'
 p15
 sS'content_type'
 p16
@@ -34,14 +34,14 @@ S'Attachment'
 p19
 sS'id'
 p20
-I9350
+I17662
 sS'link_type'
 p21
 S'upload'
 p22
 ssS'sg_status_list'
 p23
-S'bad'
+S'prod'
 p24
 sS'sg_detailed_release_notes'
 p25
@@ -52,7 +52,7 @@ S'v0.1.16'
 p28
 sS'url'
 p29
-S'https://toolkit.shotgunsoftware.com/entries/22135296#v0.1.16'
+S'https://support.shotgunsoftware.com/hc/en-us/articles/219032908#v0.1.16'
 p30
 sS'content_type'
 p31
@@ -62,7 +62,7 @@ S'Attachment'
 p33
 sS'id'
 p34
-I9347
+I17659
 sS'link_type'
 p35
 S'web'
@@ -76,7 +76,7 @@ S'Documentation'
 p40
 sS'url'
 p41
-S'https://toolkit.shotgunsoftware.com/entries/22135296'
+S'https://support.shotgunsoftware.com/hc/en-us/articles/219032908'
 p42
 sS'content_type'
 p43
@@ -86,7 +86,7 @@ S'Attachment'
 p45
 sS'id'
 p46
-I9348
+I17661
 sS'link_type'
 p47
 S'web'
@@ -97,7 +97,7 @@ S'CustomNonProjectEntity05'
 p50
 sS'id'
 p51
-I1500
+I2552
 ssS'sg_bundle_data'
 p52
 (dp53

@@ -22,7 +22,7 @@ S'tk-shotgun-folders_v0.1.5.zip'
 p13
 sS'url'
 p14
-S'https://tank.shotgunstudio.com/file_serve/attachment/2922'
+S'https://tank.shotgunstudio.com/file_serve/attachment/3095'
 p15
 sS'content_type'
 p16
@@ -34,14 +34,14 @@ S'Attachment'
 p19
 sS'id'
 p20
-I2922
+I3095
 sS'link_type'
 p21
 S'upload'
 p22
 ssS'sg_status_list'
 p23
-S'bad'
+S'beta'
 p24
 sS'sg_detailed_release_notes'
 p25
@@ -62,7 +62,7 @@ S'Attachment'
 p33
 sS'id'
 p34
-I2919
+I3092
 sS'link_type'
 p35
 S'web'
@@ -86,7 +86,7 @@ S'Attachment'
 p45
 sS'id'
 p46
-I2920
+I3093
 sS'link_type'
 p47
 S'web'
@@ -97,7 +97,7 @@ S'CustomNonProjectEntity05'
 p50
 sS'id'
 p51
-I435
+I463
 ssS'sg_bundle_data'
 p52
 (dp53
